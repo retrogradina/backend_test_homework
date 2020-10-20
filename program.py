@@ -1,1 +1,1 @@
-print('Я домашка'
+# backend_test_homework
